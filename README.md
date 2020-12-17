@@ -4,7 +4,7 @@ I created this API just as a little experiment to see if deep learning (Convolut
 This API is made with Python, Keras, TensorFlow and Flask.
 
 # How to use this API?
-First of all, you need to download Keras, TensorFlow, and flask if you don't already have them.
+First of all, you need to download Keras, TensorFlow, and Flask if you don't already have them.
 
 -To download TensorFlow:
 
