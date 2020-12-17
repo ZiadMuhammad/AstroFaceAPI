@@ -1,5 +1,7 @@
 # AstroFaceAPI ♒️
-I created this API just as a little experiment to see if deep learning could detect your zodiac sign from your image! The model got trained on a dataset that I collected on my own. The dataset consisted of photos of celebrities of different zodiac signs.
+I created this API just as a little experiment to see if deep learning (Convolutional Neural Networks) could detect your zodiac sign from your image! The model got trained on a dataset that I collected on my own. The dataset consisted of photos of celebrities of different zodiac signs.
+
+This API is made with Python, Flask and TensorFlow.
 
 # How to use this API?
 First of all, you need to download Keras, TensorFlow, and flask if you don't already have them.
@@ -44,3 +46,9 @@ Response:
 ```
   You look like a Taurus
 ```
+
+# So does it predict my zodiac sign accurately?
+
+Sometimes! However, most of the time, this model does not work accurately, but, interestingly enough, most of the time, it predicts your cusp correctly! So that means, for example, if you are an Aquarius and your date is near to the date of Pisces, it might return Pisces!
+
+Just as a note, this is not a serious project. It's just a little experiment that I have always wanted to conduct!
