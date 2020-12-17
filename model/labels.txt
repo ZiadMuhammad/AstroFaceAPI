@@ -1,0 +1,12 @@
+0 Aquarius
+1 Aries
+2 Cancer
+3 Capricorn
+4 Gemini
+5 Leo
+6 Libra
+7 Pisces
+8 Sagittarius
+9 Scorpio
+10 Taurus
+11 Virgo
