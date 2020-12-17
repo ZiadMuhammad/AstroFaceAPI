@@ -1,7 +1,7 @@
 # AstroFaceAPI ♒️
 I created this API just as a little experiment to see if deep learning (Convolutional Neural Networks) could detect your zodiac sign from your image! The model got trained on a dataset that I collected on my own. The dataset consisted of photos of celebrities of different zodiac signs.
 
-This API is made with Python, Flask and TensorFlow.
+This API is made with Python, Keras, Flask and TensorFlow.
 
 # How to use this API?
 First of all, you need to download Keras, TensorFlow, and flask if you don't already have them.
